@@ -3,4 +3,26 @@
   * Felmasoljuk egy DVD-re vagy egy stickre
   * Ha stickre masoljuk akkor szuksegunk van egy WintoFlash programra(innen https://wintoflash.com/download/en/)
   * Windows setup to Wizardra ramegyunk es kivalasztjuk ha a stickre masoljuk az Iso-t
-  * Source es a Destination megadjuk--->next --->i accept--->run
+  * Source es a Destination megadjuk--->next --->i accept--->run--->exit
+  * Kiveszem a sticket (figyelem :Eject Data Traveler ) es behelyezem a laptopba amire installalom a windows 10-t
+  * Amikor ujraindul a gep  akkor megkell nyomni  F2,F12,F8 valamelyiket es be kell menni a Bios setupba
+  * Boot Priorityra lesz szuksegunk, Kingston Datatraveler (sajat flash) kell legyen legfelul,onnan kezdi a butolast
+  * F10 Save and exit-->save configuration and reset ---> yes
+  * Language-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
