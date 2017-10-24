@@ -9,4 +9,5 @@
   * Boot Priorityra lesz szuksegunk, Kingston Datatraveler (sajat flash) kell legyen legfelul,onnan kezdi a butolast
   * F10 Save and exit-->save configuration and reset ---> yes
   * Language-->next--> i accept the license terms--->custom : install windows only-->Kivalasztott particio torlese(azt a particiot kell torolni/formatalni amin van az a windows amit update-ni szeretnel (ha van nev akkor az alapjan ha nincs akkor  a size kell nezni)---> particio new(azt a meretet adjuk meg altalaban amit automatikusan behoz--->apply---->particio format---->next
-  * 
+  * Lets get connected- kivalasztjuk a wifi halozatunkat
+  * Get going fast--->use express settings
