@@ -5,7 +5,11 @@
   * Windows setup to Wizardra ramegyunk es kivalasztjuk ha a stickre masoljuk az Iso-t
   * Source es a Destination megadjuk--->next --->i accept--->run--->exit
   * Kiveszem a sticket (figyelem :Eject Data Traveler ) es behelyezem a laptopba amire installalom a windows 10-t
-  * Amikor ujraindul a gep  akkor megkell nyomni  F2,F12,F8 valamelyiket es be kell menni a Bios setupba
+  * Amikor ujraindul a gep  akkor megkell nyomni  F2(sajat),F12,F8 valamelyiket es be kell menni a Bios setupba
+  * BOOT tabot kivalasztom
+  * BOOT option 1 MInidg  a stick/cd -Hitachi  
+  * BOOT option 2 CD/DVD
+  * BOOT option 3 aza a hardware jelen esetben HITACHI, minden hol mas 
   * Boot Priorityra lesz szuksegunk, Kingston Datatraveler (sajat flash) kell legyen legfelul,onnan kezdi a butolast
   * F10 Save and exit-->save configuration and reset ---> yes
   * Language-->next--> i accept the license terms--->custom : install windows only-->Kivalasztott particio torlese(azt a particiot kell torolni/formatalni amin van az a windows amit update-ni szeretnel (ha van nev akkor az alapjan ha nincs akkor  a size kell nezni)---> particio new(azt a meretet adjuk meg altalaban amit automatikusan behoz--->apply---->particio format---->next
@@ -14,5 +18,6 @@
   * I own it--->The end :D
   
   # Driver(ek)-install
+    * Beirjuk a laptopunk modelet es rakeresunk a Drive-ra
     * Felmegyunk a Ninite oldalara (https://ninite.com/)---->Pick the apps you want-l kivalasztjuk azokat a programokat amit leszeretnenk tolteni
     * Get your Ninite(kovetni kell az utasitasokat az oldalon) download--run---share
