@@ -18,6 +18,12 @@
   * I own it--->The end :D
   
   # Driver(ek)-install
-    * Beirjuk a laptopunk modelet es rakeresunk a Drive-ra
-    * Felmegyunk a Ninite oldalara (https://ninite.com/)---->Pick the apps you want-l kivalasztjuk azokat a programokat amit leszeretnenk tolteni
+    * Beirjuk a laptopunk modelet es rakeresunk a Driveok-ra
+    * Ott kivalasztjuk a windows tipusat ami a laptopunkra le van toltve
+    * Utanna kivalasztjuk h milyen druvereket akarunk letolteni a gepunkre
+    * Start menube a Device manager-be megtudjuk nezni h milyen driverek vannak , ami felkialto jellel jelenik meg arra szukseg van mindig
+    * Felmegyunk a Ninite oldalra (https://ninite.com/)---->Pick the apps you want-l kivalasztjuk azokat a programokat amit leszeretnenk tolteni
     * Get your Ninite(kovetni kell az utasitasokat az oldalon) download--run---share
+    
+   # Microsoft office csomag letoltese
+     * The pirate bay megkeressuk azt a tipust amelyiket szeretnenk, patko ikonra ha ramegyunk akkor be is tolti nekunk a torrent segitsegevel letudjuk tolteni, majd installalni
